@@ -1,0 +1,21 @@
+gene	category	display_class	ncbi_class	ncbi_subclass	product	accession	length	note	source
+blaKPC-2	ARG	Beta-lactam	BETA-LACTAM	CARBAPENEM	carbapenem-hydrolyzing class A beta-lactamase KPC-2	NG_049253.1	882	Carbapenemase (class A)	NCBI Reference Gene Catalog 2026-08-07.1
+blaNDM-1	ARG	Beta-lactam	BETA-LACTAM	CARBAPENEM	subclass B1 metallo-beta-lactamase NDM-1	NG_049326.1	813	Carbapenemase (metallo-beta-lactamase)	NCBI Reference Gene Catalog 2026-08-07.1
+blaOXA-48	ARG	Beta-lactam	BETA-LACTAM	CARBAPENEM	OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-48	NG_049762.1	798	Carbapenemase (class D)	NCBI Reference Gene Catalog 2026-08-07.1
+blaVIM-2	ARG	Beta-lactam	BETA-LACTAM	CARBAPENEM	subclass B1 metallo-beta-lactamase VIM-2	NG_050347.1	801	Carbapenemase (metallo-beta-lactamase)	NCBI Reference Gene Catalog 2026-08-07.1
+blaCTX-M-15	ARG	Beta-lactam	BETA-LACTAM	CEPHALOSPORIN	extended-spectrum class A beta-lactamase CTX-M-15	NG_048935.1	876	Extended-spectrum beta-lactamase (ESBL)	NCBI Reference Gene Catalog 2026-08-07.1
+blaTEM-1	ARG	Beta-lactam	BETA-LACTAM	BETA-LACTAM	broad-spectrum class A beta-lactamase TEM-1	NG_050145.1	861	Broad-spectrum beta-lactamase	NCBI Reference Gene Catalog 2026-08-07.1
+mecA	ARG	Beta-lactam	BETA-LACTAM	METHICILLIN	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	NG_047939.1	2007	Methicillin resistance (MRSA marker)	NCBI Reference Gene Catalog 2026-08-07.1
+vanA	ARG	Glycopeptide	GLYCOPEPTIDE	VANCOMYCIN	D-alanine--(R)-lactate ligase VanA	NG_048323.1	1032	Vancomycin resistance (VRE marker)	NCBI Reference Gene Catalog 2026-08-07.1
+mcr-1.1	ARG	Polymyxin	COLISTIN	COLISTIN	phosphoethanolamine--lipid A transferase MCR-1.1	NG_050417.1	1626	Mobile colistin resistance	NCBI Reference Gene Catalog 2026-08-07.1
+aac(6')-Ib-cr5	ARG	Aminoglycoside	AMINOGLYCOSIDE/QUINOLONE	AMIKACIN/KANAMYCIN/QUINOLONE/TOBRAMYCIN	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr5	NG_051711.1	555	Aminoglycoside and fluoroquinolone acetyltransferase	NCBI Reference Gene Catalog 2026-08-07.1
+qnrS1	ARG	Quinolone	QUINOLONE	QUINOLONE	quinolone resistance pentapeptide repeat protein QnrS1	NG_050543.1	657	Plasmid-mediated quinolone resistance	NCBI Reference Gene Catalog 2026-08-07.1
+sul1	ARG	Sulfonamide	SULFONAMIDE	SULFONAMIDE	sulfonamide-resistant dihydropteroate synthase Sul1	NG_048102.1	840	Integron-associated sulfonamide resistance	NCBI Reference Gene Catalog 2026-08-07.1
+sul2	ARG	Sulfonamide	SULFONAMIDE	SULFONAMIDE	sulfonamide-resistant dihydropteroate synthase Sul2	NG_051852.1	816	Sulfonamide resistance	NCBI Reference Gene Catalog 2026-08-07.1
+tet(M)	ARG	Tetracycline	TETRACYCLINE	TETRACYCLINE	tetracycline resistance ribosomal protection protein Tet(M)	NG_048250.1	1920	Ribosomal protection protein	NCBI Reference Gene Catalog 2026-08-07.1
+tet(W)	ARG	Tetracycline	TETRACYCLINE	TETRACYCLINE	tetracycline resistance ribosomal protection protein Tet(W)	NG_048291.1	1920	Ribosomal protection protein	NCBI Reference Gene Catalog 2026-08-07.1
+tet(A)	ARG	Tetracycline	TETRACYCLINE	TETRACYCLINE	tetracycline efflux MFS transporter Tet(A)	NG_048153.1	1200	Tetracycline efflux pump	NCBI Reference Gene Catalog 2026-08-07.1
+erm(B)	ARG	MLS	LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN	CLINDAMYCIN/ERYTHROMYCIN/STREPTOGRAMIN B	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	NG_047797.1	738	23S rRNA methyltransferase (macrolide-lincosamide-streptogramin B)	NCBI Reference Gene Catalog 2026-08-07.1
+dfrA1	ARG	Trimethoprim	TRIMETHOPRIM	TRIMETHOPRIM	trimethoprim-resistant dihydrofolate reductase DfrA1	NG_047676.1	474	Trimethoprim-resistant dihydrofolate reductase	NCBI Reference Gene Catalog 2026-08-07.1
+intI1	MGE	Integrase			Escherichia coli strain Gol1 class 1 integron integrase gene, complete cds	MT783698.1	1014	Class 1 integron integrase; proxy for anthropogenic pollution	NCBI Nucleotide
+16S_rRNA	marker	Marker			Escherichia coli str. K-12 substr. MG1655 strain K-12 16S ribosomal RNA, complete sequence	NR_102804.1	1542	Escherichia coli K-12 16S rRNA gene; normalisation marker	NCBI Nucleotide

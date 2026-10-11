@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "resistoscan: alignment-free screening of antimicrobial resistance genes for One Health surveillance"
+authors:
+  - alias: "aespejolobo-rgb"
+version: 0.1.0
+date-released: 2026-10-11
+license: MIT
+repository-code: "https://github.com/aespejolobo-rgb/resistoscan"
+keywords:
+  - bioinformatics
+  - antimicrobial resistance
+  - metagenomics
+  - One Health
+  - wastewater surveillance

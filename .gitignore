@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# generated data and results
+demo/
+demo_data/
+resistoscan_*/
+*.npz
